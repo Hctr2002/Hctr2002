@@ -21,7 +21,7 @@ const Hctr2002 = {
 - Docker 🐳
 - Kubernetes ☸️
 - Microservices
-- Kotlin, JavaScript
+- Kotlin, JavaScript, PL/SQL
   
 You can find me 🌎:
 
