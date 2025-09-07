@@ -16,7 +16,7 @@ const Hctr2002 = {
 ## 🚀 some projects
 - [📦 backend of a perfumery](https://github.com/Hctr2002/PerfulandiaTest.git)
 - [🍰 pastry shop project](https://github.com/Hctr2002/Pasteler-a-Mil-Sabores.git)
-> “El código limpio siempre parece que fue escrito por alguien que se preocupó.” – Robert C. Martin
+> "Hay dos formas de escribir programas sin errores; sólo la tercera funciona" - Alan J. Perlis. 
 ## 🌱 Currently learning
 - Docker 🐳
 - Kubernetes ☸️
