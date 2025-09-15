@@ -5,7 +5,7 @@
 const Hctr2002 = {
   pronouns: "He/Him",
   code: [Python, SQL, Java, C, HTML, CSS, JavaScript]
-  tools: [Spring Boot, Git, GitHub, VSCode, SQLdeveloper, APIs REST, Node, React]
+  tools: [Spring Boot, Git, GitHub, VSCode, SQLdeveloper, APIs REST, Node]
 }
 ```
 ## 🛠️ technologies and tools
@@ -21,7 +21,7 @@ const Hctr2002 = {
 - Docker 🐳
 - Kubernetes ☸️
 - Microservices
-- Kotlin, JavaScript, PL/SQL
+- Kotlin, JavaScript, PL/SQL, React
   
 You can find me 🌎:
 
