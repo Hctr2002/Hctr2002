@@ -16,6 +16,7 @@ const Hctr2002 = {
 ## 🚀 some projects
 - [📦 backend of a perfumery](https://github.com/Hctr2002/PerfulandiaTest.git)
 - [🍰 pastry shop project](https://github.com/Hctr2002/Pasteler-a-Mil-Sabores.git)
+- [💊 backend of a farmacy](https://github.com/Hctr2002/Farmacia-BackEnd.git)
 > "Hay dos formas de escribir programas sin errores; sólo la tercera funciona" - Alan J. Perlis. 
 ## 🌱 Currently learning
 - Docker 🐳
