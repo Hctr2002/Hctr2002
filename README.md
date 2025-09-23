@@ -1,5 +1,7 @@
 ## Hi, I'm Héctor 👋
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="max-width:100%; height:auto; display:block; margin:auto;" />
+</p>
 
 ```js
 const Hctr2002 = {
