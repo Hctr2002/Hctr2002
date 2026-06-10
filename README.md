@@ -26,8 +26,8 @@ const Hctr2002 = {
   pronouns:  "He / Him",
   location:  "Santiago, Chile 🇨🇱",
   education: "DuocUC — Analista Programador",
-  code:      ["Java", "Kotlin", "Python", "JavaScript", "TypeScript", "SQL", "PL/SQL"],
-  tools:     ["Spring Boot", "FastAPI", "Pydantic", "Express", "Node.js",
+  code:      ["Java", "Kotlin", "Python", "JavaScript", "C", "TypeScript", "SQL", "PL/SQL"],
+  tools:     ["Spring Boot", "FastAPI", "Pydantic", "Express", "Node.js", "Next.js", 
               "React", "React Native", "Expo Go", "Docker", "Kubernetes", "REST APIs"],
   learning:  ["Microservices", "Kubernetes ☸️", "React Native 📱"]
 };
